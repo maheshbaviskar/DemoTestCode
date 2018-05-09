@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="7.026144">
+<testcase classname="To Test the Servlet webPage" name="Search Name on Web Page" time="4.313256">
+<system-out><![CDATA[Given Go To Url http://localhost:8081/DemoWebPage/..........................passed
+When Enter the below mahesh.................................................passed
+Then Same name should be displayed mahesh...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Test the Servlet webPage" name="Search Name on Web Page 2" time="2.712888">
+<system-out><![CDATA[Given Go To Url http://localhost:8081/DemoWebPage/..........................passed
+When Enter the below name...................................................passed
+Then Same name should be displayed name.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
